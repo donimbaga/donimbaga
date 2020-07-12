@@ -1,3 +1,5 @@
 Hello, I'm Doni Mbaga.
 
-In an attempt to become a world-class software I found myself here.
+Currently I'm on a journey to become a software developer.
+
+I'm learning Python, JS, HTML & CSS and all related technologies.
